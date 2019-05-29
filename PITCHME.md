@@ -20,3 +20,8 @@ prueba fragmentos
 - elemento 1
 - elemento 2
 @ulend
+
+---
+
+@css[text-blue fragment](Hello, World!)
+@css[h1 fragment](Hello, World!)
