@@ -25,3 +25,12 @@ prueba fragmentos
 
 @css[text-blue fragment](Hello, World!)
 @css[h1 fragment](Hello, World!)
+
+
+---
+
+# ABC
+
+---
+
+# ABCDEF
